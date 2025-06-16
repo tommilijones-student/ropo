@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main() {
-    printf("polska");
-    printf("polska");
-    printf("polska");
+    printf("polska\n");
+    printf("polska\n");
+    printf("polska\n");
     return 0;
 }
